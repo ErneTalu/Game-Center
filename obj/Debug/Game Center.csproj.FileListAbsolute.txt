@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Game Center.exe.config
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Game Center.exe
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Game Center.pdb
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game Center.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game_Center.Window.resources
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game_Center.Properties.Resources.resources
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game Center.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game Center.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game Center.exe
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game Center.pdb
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Debug\Game Cen.2DEBCE8B.Up2Date

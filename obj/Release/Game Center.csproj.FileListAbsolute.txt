@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Game Center.exe.config
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Game Center.exe
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Game Center.pdb
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\user\Desktop\Codes\C#\Game Center\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game Center.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game_Center.Window.resources
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game_Center.Properties.Resources.resources
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game Center.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game Center.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game Cen.2DEBCE8B.Up2Date
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game Center.exe
+C:\Users\user\Desktop\Codes\C#\Game Center\obj\Release\Game Center.pdb

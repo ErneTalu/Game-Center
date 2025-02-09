@@ -1,0 +1,38 @@
+GamesPath: 
+C:\Users\user\Desktop\Games\Among Us.url
+C:\Users\user\Desktop\Games\Blazing Sails.url
+C:\Games\Bopl Battle\BoplBattle.exe
+C:\Users\user\Desktop\Games\Business Tour - Online Multiplayer Board Game.url
+C:\Users\user\Desktop\Games\Counter-Strike 2.url
+C:\Users\user\Desktop\Games\Crab Game.url
+C:\Users\user\Desktop\Games\CraftRise.exe
+D:\Games\Dark Souls 3\Game\DarkSoulsIII.exe
+C:\Users\user\Desktop\Games\DDNet.url
+C:\Users\user\Desktop\Games\Don't Starve Together.url
+C:\Users\user\Desktop\Games\Feign.url
+C:\Users\user\Desktop\Games\Garry's Mod.url
+C:\Users\user\Desktop\Games\Goose Goose Duck.url
+C:\Users\user\Desktop\Games\Grand Theft Auto V.url
+C:\Users\user\AppData\Local\Growtopia\Growtopia.exe
+C:\Users\user\Desktop\Games\Half-Life.url
+D:\Games\Hearts of Iron IV\launcher-v2.2020.11\Paradox Launcher.exe
+C:\Riot Games\Riot Client\RiotClientServices.exe
+C:\Users\user\Desktop\Games\Left 4 Dead 2.url
+C:\Users\user\Desktop\Games\Lossless Scaling.url
+C:\Users\user\Desktop\Games\Muck.url
+D:\Games\OMORI.v8879120\Launch_OMORI.exe
+C:\Games\Patch Quest\Patch Quest.exe
+C:\Users\user\Desktop\Games\Raft.url
+C:\Users\user\Desktop\Games\Ranch Simulator.url
+C:\Games\RimWorld\RimWorldWin64.exe
+C:\Users\user\Desktop\Games\RISK Global Domination.url
+C:\Users\user\AppData\Local\Roblox\Versions\version-b7a853f1584049b4\RobloxPlayerBeta.exe
+C:\Users\user\AppData\Local\Roblox\Versions\version-35ab2f0d73f349ee\RobloxStudioBeta.exe
+C:\Users\user\Desktop\Games\Rust.url
+C:\Games\Sons Of The Forest\SonsOfTheForest.exe
+C:\Users\user\Desktop\Games\Tank Team.url
+C:\Users\user\Desktop\Games\Team Fortress 2.url
+C:\Users\user\Desktop\Games\Terraria.url
+C:\Program Files (x86)\The Binding of Isaac Repentance\isaac-ng.exe
+C:\Users\user\Desktop\Games\Zort Demo.url
+C:\Users\user\Desktop\Games\Zort.url
