@@ -51,7 +51,7 @@ namespace Game_Center
         {
             using (OpenFileDialog openFileDialog = new OpenFileDialog())
             {
-                openFileDialog.Filter = "Executable and URL Files (*.exe;*.url)|*.exe;*.url";
+                openFileDialog.Filter = "Game Files (*.exe;*.url;*.bat)|*.exe;*.url;*.bat";
                 openFileDialog.Multiselect = true;
 
                 if (openFileDialog.ShowDialog() == DialogResult.OK)
@@ -237,7 +237,7 @@ namespace Game_Center
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Failed to open the .exe file: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show($"Failed to open the game file: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         private void SavePaths(string exePath = null)
